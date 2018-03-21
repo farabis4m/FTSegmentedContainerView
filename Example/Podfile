@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTSegmentedContainerView_Tests' do
+  pod 'FTSegmentedContainerView', :path => '../'
+  
+  
+end
