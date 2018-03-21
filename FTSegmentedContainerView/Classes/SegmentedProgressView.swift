@@ -76,7 +76,7 @@ public class SegmentedProgressView: UIView, ProgressBarElementViewDelegate {
     private var currentAnimationIndex = 0
     
     // Set the required Segments in the view
-    func configureSegmentView(with items: [SegmentView]) {
+    public func configureSegmentView(with items: [SegmentView]) {
         toLoadElementViews = items
         elementViews = items
         redraw()

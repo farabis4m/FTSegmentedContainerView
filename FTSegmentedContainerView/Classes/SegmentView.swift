@@ -30,7 +30,7 @@ public class SegmentView: UIView {
     var trackTintColor: UIColor?
     var filledShape = CAShapeLayer()
     
-    init(withItem item: ProgressItem!) {
+    public init(withItem item: ProgressItem!) {
         self.item = item
         super.init(frame: .zero)
     }
