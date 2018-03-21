@@ -1,0 +1,6 @@
+framework module Pods_FTSegmentedContainerView_Tests {
+  umbrella header "Pods-FTSegmentedContainerView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - FTSegmentedContainerView (0.1.0)
+
+DEPENDENCIES:
+  - FTSegmentedContainerView (from `../`)
+
+EXTERNAL SOURCES:
+  FTSegmentedContainerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FTSegmentedContainerView: f9b2f0a8b4ad74e71c82c90f3fa91cf0001dd3a7
+
+PODFILE CHECKSUM: 0ce47754978c538c19a5055e359980705d5f3070
+
+COCOAPODS: 1.4.0

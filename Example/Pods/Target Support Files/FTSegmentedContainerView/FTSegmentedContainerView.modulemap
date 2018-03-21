@@ -1,0 +1,6 @@
+framework module FTSegmentedContainerView {
+  umbrella header "FTSegmentedContainerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

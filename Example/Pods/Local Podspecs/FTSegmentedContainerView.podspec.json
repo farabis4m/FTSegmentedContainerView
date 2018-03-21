@@ -1,0 +1,22 @@
+{
+  "name": "FTSegmentedContainerView",
+  "version": "0.1.0",
+  "summary": "A short description of FTSegmentedContainerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/farabis4m/FTSegmentedContainerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "farabis4m": "thahir@farabi.ae"
+  },
+  "source": {
+    "git": "https://github.com/farabis4m/FTSegmentedContainerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FTSegmentedContainerView/Classes/**/*"
+}
